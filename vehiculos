@@ -1,0 +1,88 @@
+[
+    
+    {
+      "vehiculo": "furgoneta",
+      "tarifa_base_cortaDistancia": 70,
+      "tarifa_base_gasoil": 0.31,
+      "comision_largaDistancia": 10,
+      "comision_cortaDistancia": 12, 
+      "umbral": 100
+    },
+    {
+      "vehiculo": "camion",
+      "tarifa_base_cortaDistancia": 130,
+      "tarifa_base_gasoil": 0.72,
+      "comision_largaDistancia": 10,
+      "comision_cortaDistancia": 10,
+      "umbral": 100
+    },
+    {
+      "vehiculo": "tractora",
+      "tarifa_base_cortaDistancia": 130,
+      "tarifa_base_gasoil": 0.75,
+      "comision_largaDistancia": 10,
+      "comision_cortaDistancia": 10,
+      "umbral": 100
+    },
+    {
+      "vehiculo": "trailer",
+      "tarifa_base_cortaDistancia": 150,
+      "tarifa_base_gasoil": 1,
+      "comision_largaDistancia": 10,
+      "comision_cortaDistancia": 10,
+      "umbral": 100
+    },
+    {
+      "vehiculo": "mudanza",
+      "tarifa_base_cortaDistancia": 90,
+      "tarifa_base_gasoil": 0.34,
+      "comision_largaDistancia": 20,
+      "comision_cortaDistancia": 15,
+      "umbral": 100
+    },
+    {
+      "vehiculo": "moto",
+      "tarifa_base_cortaDistancia": 4,
+      "tarifa_base_gasoil": 0.25,
+      "comision_largaDistancia": 15,
+      "comision_cortaDistancia": 15,
+      "umbral": 100
+    },
+
+    
+    {
+      "vehiculo": "turismo",
+      "tarifa_base_cortaDistancia": 0,
+      "tarifa_menos100km": 0.36,
+      "tarifa_mas100km": 0.32,
+      "tarifa_base_gasoil": 0.25,
+      "comision_euro": 10,
+      "umbral": 100
+    },
+    {
+      "vehiculo": "vtc",
+      "tarifa_base_cortaDistancia": 90,
+      "tarifa_base_gasoil": 0.71,
+      "comision_largaDistancia": 10,
+      "comision_cortaDistancia": 10,
+      "umbral": 100
+    },
+    {
+      "vehiculo": "taxi",
+      "tarifa_base_cortaDistancia": 120,
+      "tarifa_base_gasoil": 0.93,
+      "comision_largaDistancia": 10,
+      "comision_cortaDistancia": 10,
+      "umbral": 100
+    },
+    {
+      "vehiculo": "autobus",
+      "tarifa_base_cortaDistancia": 135,
+      "tarifa_base_gasoil": 0.75,
+      "comision_largaDistancia": 15,
+      "comision_cortaDistancia": 15,
+      "umbral": 100
+    }
+    
+  ]
+  
